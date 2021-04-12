@@ -1,7 +1,12 @@
-# Remove the ‘fixed mindset’ inner voice
+# Get feedback
 
 
-- Many people have a negative inner voice that acts against a growth mindset. Try to flip thoughts such as ‘I can’t do this’, to ‘I can do this if I keep practicing’ to nurture a growth mindset.
+- Try and seek feedback on your work. When students are provided with progressive feedback about what they did well and where they can improve, it creates motivation to keep going. Feedback is also associated with a pleasurable dopamine response and enhances a growth mindset.
  
-![growth mindset](https://assets.website-files.com/5e61c61d7b1e830be9d1c47a/5f6d9106e1b16c30407e5e85_How%20to%20practice%20growth%20mindset%20self-talk.png)
+![Get feedback](https://www.relationedge.com/sites/default/files/article-images/blog_557.jpg)
 
+- [x] Awesome
+- [ ] Excellent
+- [ ] Good
+- [ ] Average
+- [ ] Poor
