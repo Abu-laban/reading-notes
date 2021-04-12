@@ -1,4 +1,4 @@
-***Growth Mindset	
+__Growth Mindset	
 * What is a ** growth mindset  ? 
 > A growth mindset is synonymous with a love of learning
 ###### Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:
