@@ -21,4 +21,4 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 
 How to develop a growth mindset
 
-`<[Read01](Read01.md)>` 
+[Read01](Read01.md) 
