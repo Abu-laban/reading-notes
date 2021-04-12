@@ -1,4 +1,4 @@
-# __ So, what is Git?__
+#  So, what is Git?
 
 1. ### Snapshots
 

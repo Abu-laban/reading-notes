@@ -11,7 +11,7 @@
 CONTENTS | 
 ------------ | -------------
 [INTRODUCTION](Introduction.md)| :point_left:
-[what is Git?](whatisGit?.md) | :point_left:
+[what is Git?](WhatGit.md) | :point_left:
 [Getting Started](GettingStarted.md) | :point_left:
 [SETTING UP A GIT REPOSITORY](AGITREPOSITORY.md)| :point_left:
 [Workflow](Workflow.md)| :point_left:
