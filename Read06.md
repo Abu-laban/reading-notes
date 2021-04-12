@@ -1,7 +1,7 @@
-# Remove the ‘fixed mindset’ inner voice
+# Accept failure as part of the process
 
 
-- Many people have a negative inner voice that acts against a growth mindset. Try to flip thoughts such as ‘I can’t do this’, to ‘I can do this if I keep practicing’ to nurture a growth mindset.
+- Failure setbacks and initial confusion are all part of the learning process! When trying something new, see occasional ‘failures’ as positive learning opportunities—try to enjoy the discovery process along the way. 
  
-![growth mindset](https://assets.website-files.com/5e61c61d7b1e830be9d1c47a/5f6d9106e1b16c30407e5e85_How%20to%20practice%20growth%20mindset%20self-talk.png)
+![Accept failure](https://www.quotemaster.org/images/a8/a8d4f796ad85ed6a2e074358a4973d83.jpg)
 
