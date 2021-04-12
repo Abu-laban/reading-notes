@@ -5,8 +5,8 @@
  
 ![Get feedback](https://www.relationedge.com/sites/default/files/article-images/blog_557.jpg)
 
-- [x] Awesome
-- [ ] Excellent
-- [ ] Good
-- [ ] Average
-- [ ] Poor
+                                                                 - [x] Awesome
+                                                                 - [ ] Excellent
+                                                                 - [ ] Good
+                                                                 - [ ] Average
+                                                                 - [ ] Poor
