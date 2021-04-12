@@ -32,3 +32,7 @@ How to develop a growth mindset
 [Get out of your comfort zone](Read05.md) 
 
 [Accept failure as part of the process](Read06.md) 
+
+
+
+# [Git Tutorial: A Comprehensive Guide](read.md)
