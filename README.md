@@ -17,3 +17,6 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 
 1. What was the best part of the day?
 2. What went wrong, and how can I make sure it doesn’t happen again?
+
+
+How to develop a growth mindset
