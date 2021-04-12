@@ -22,8 +22,13 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 How to develop a growth mindset
 
 [Realize that scientifically you can improve](Read01.md) 
-[Remove the ‘fixed mindset’ inner voice](Read01.md) 
-[Reward the process](Read01.md) 
-[Get feedback](Read01.md) 
-[Get out of your comfort zone](Read01.md) 
+
+[Remove the ‘fixed mindset’ inner voice](Read02.md) 
+
+[Reward the process](Read03.md) 
+
+[Get feedback](Read04.md) 
+
+[Get out of your comfort zone](Read05.md) 
+
 [Accept failure as part of the process](Read06.md) 
