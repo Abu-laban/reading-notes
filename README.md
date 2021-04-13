@@ -19,7 +19,7 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 2. What went wrong, and how can I make sure it doesn’t happen again?
 
 
-How to develop a growth mindset
+**How to develop a growth mindset**
 
 [Realize that scientifically you can improve](Read01.md) 
 
@@ -36,3 +36,4 @@ How to develop a growth mindset
 
 
 # [Git Tutorial: A Comprehensive Guide](read.md)
+# [HTML&CSS](readhtmlcss.md)
