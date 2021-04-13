@@ -16,7 +16,7 @@
 ><?xml version="1.0" ?>
 
 ## Comments in HTML
-* If you want to add a comment  to your code that will not be  visible in the user's browser, you  can add the text between these  characters: <!-- comment goes here -->
+* If you want to add a comment  to your code that will not be  visible in the user's browser, you  can add the text between these  characters: ``` <!-- comment goes here --> ```
 
 ## ID Attribute & Class Attribute
 * allow you to identify particular elements.
@@ -24,15 +24,15 @@
 ## Elements
 * Block Elements
   * Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
-  >Examples of block elements are <h1>, <p>, <ul>, and <li>.
+  >Examples of block elements are ``` <h1>, <p>, <ul>, and <li> ```.
 *  Inline Elements
    * Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
-   >Examples of inline elements are <a>, <b>, <em>, and <img>.
+   >Examples of inline elements are ``` <a>, <b>, <em>, and <img> ```.
  
-**The <div> and <span> elements allow you to group block-level and inline elements together.**
+** The <div> and <span> elements allow you to group block-level and inline elements together. **
 
 ## HTML5 Layout
-**The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.**
+** The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure. **
 * The <header> and <footer> elements can be used for:
   * The main header or footer that appears at the top or bottom of every page on the site.
   * A header or footer for an individual <article> or <section> within the page.
