@@ -37,3 +37,4 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 
 # [Git Tutorial: A Comprehensive Guide](read.md)
 # [HTML&CSS](readhtmlcss.md)
+# [JavaScript](js.md)
