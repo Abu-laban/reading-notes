@@ -43,10 +43,9 @@ In a fixed mindset, people believe attributes, such as talent and intelligence, 
 
 # [JavaScript](js.md)
 
-
 # [JavaScript2](js2.md)
 
 # [JavaScript3](js3.md)
 
-# [JavaScript2](js2.md)
+
 
