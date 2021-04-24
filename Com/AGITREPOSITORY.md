@@ -35,5 +35,3 @@ To clone a repository into a directory with another name of your choosing, use t
 > $ git clone https://github.com/test mydirectory
 
 The command above makes a copy of the target repository in a directory named “mydirectory.”
-
-Done
