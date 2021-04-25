@@ -7,3 +7,4 @@
 CONTENTS | 
 ------------ | -------------
 [HTML and JavaScript](htmljava.md)|
+[Basics of HTML, CSS & JS](class-02.md)|
