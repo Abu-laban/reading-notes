@@ -24,6 +24,6 @@ Title | Read number
 ------------ | -------------
 [HTML and JavaScript](htmljava.md)| Read: 01 - Introductory HTML and JavaScript
 [Basics of HTML, CSS & JS](class-02.md)| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-
+[HTML Lists, CSS Boxes, JS Control Flow](class-03.md) | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 
 
