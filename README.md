@@ -1,9 +1,29 @@
 # Reading Notes
+
+## Daily reading assignments
+
 - TABLE OF CONTENTS: CLICK TO JUMP TO A SPECIFIC SECTION
 
-CONTENTS | 
+### Code 102 Reading Notes
+
+Title | Read number
 ------------ | -------------
-[Code 102 Reading Notes](Code102.md)|
-[Code 201 Reading Notes](Code201.md)|
+[Growth Mindset	](Growth.md)| Read: 01 - Learning Markdown
+[Git Tutorial: A Comprehensive Guide](Guide.md)| Read: 02 - Revisions and the Cloud
+[HTML&CSS](readhtmlcss.md)| Read: 03 - Structure web pages with HTML
+[How Computers Works](HCW.md)| Read: 04b - Computer Architecture and Logic
+[JavaScript1](js.md)| Read: 04a - Dynamic web pages with JavaScript
+[JavaScript2](js2.md)| Read: 05 - Operators and Loops
+[JavaScript3](js3.md)| Read: 06 - Programming with JavaScript
+[CSS](css.md)| Read: 07 - Design web pages with CSS
+[The Coder's Computer](TCC.md)| Read: 09 - The Coder's Computer
+
+### Code 201 Reading Notes
+
+Title | Read number
+------------ | -------------
+[HTML and JavaScript](htmljava.md)| Read: 01 - Introductory HTML and JavaScript
+[Basics of HTML, CSS & JS](class-02.md)| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+
 
 
