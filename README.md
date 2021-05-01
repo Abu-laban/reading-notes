@@ -27,3 +27,4 @@ Title | Read number
 [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md) | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md) | Read: 04 - HTML Links, CSS Layout, JS Functions
 [Images, Color, Text](class-05.md) | Read: 05 - HTML Images; CSS Color & Text
+[Problem Domain, Objects, and the DOM](class-06.md) | Read: 06 - JS Object Literals; The DOM
