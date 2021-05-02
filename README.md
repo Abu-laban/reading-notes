@@ -28,3 +28,4 @@ Title | Read number
 [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md) | Read: 04 - HTML Links, CSS Layout, JS Functions
 [Images, Color, Text](class-05.md) | Read: 05 - HTML Images; CSS Color & Text
 [Problem Domain, Objects, and the DOM](class-06.md) | Read: 06 - JS Object Literals; The DOM
+[Object-Oriented Programming, HTML Tables](class-07.md) | Read: 07 - HTML Tables; JS Constructor Functions
