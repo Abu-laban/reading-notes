@@ -31,3 +31,4 @@ Title | Read number
 [Object-Oriented Programming, HTML Tables](class-07.md) | Read: 07 - HTML Tables; JS Constructor Functions
 [CSS Layout](class-08.md) | Read: 08 - More CSS Layout
 [Forms and JS Events](class-09.md) | Read: 09 - Forms and Events
+[Debugging](class-10.md) | Read: 10 - JS Debugging
