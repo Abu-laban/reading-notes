@@ -32,3 +32,4 @@ Title | Read number
 [CSS Layout](class-08.md) | Read: 08 - More CSS Layout
 [Forms and JS Events](class-09.md) | Read: 09 - Forms and Events
 [Debugging](class-10.md) | Read: 10 - JS Debugging
+[Audio, Video, Images](class-11.md) | Read: 11 - Assorted Topics
