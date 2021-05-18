@@ -34,3 +34,4 @@ Title | Read number
 [Debugging](class-10.md) | Read: 10 - JS Debugging
 [Audio, Video, Images](class-11.md) | Read: 11 - Assorted Topics
 [Chart.js, Canvas](class-12.md) | Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
+[Local Storage](class-13.md) | Read: 13 - Local Storage
