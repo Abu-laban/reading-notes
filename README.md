@@ -36,3 +36,4 @@ Title | Read number
 [Chart.js, Canvas](class-12.md) | Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
 [Local Storage](class-13.md) | Read: 13 - Local Storage
 [CSS Transforms, Transitions, and Animations](class-14a.md) | Read: 14a - CSS Transforms, Transitions, and Animations
+[What Google Learned About Teams](class-14b.md) | Read: 14b - What Google Learned About Teams
