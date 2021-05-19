@@ -35,4 +35,4 @@ Title | Read number
 [Audio, Video, Images](class-11.md) | Read: 11 - Assorted Topics
 [Chart.js, Canvas](class-12.md) | Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
 [Local Storage](class-13.md) | Read: 13 - Local Storage
-[CSS Transforms, Transitions, and Animations](class-14.md) | Read: 14a - CSS Transforms, Transitions, and Animations
+[CSS Transforms, Transitions, and Animations](class-14a.md) | Read: 14a - CSS Transforms, Transitions, and Animations
