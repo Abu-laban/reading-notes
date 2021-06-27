@@ -43,3 +43,4 @@
 | Title                                                   | Read number                                           |
 | ------------------------------------------------------- | ----------------------------------------------------- |
 | [Introduction to React and Components](301/Class-01.md) | Read: Class 01 - Introduction to React and Components |
+| [State and Props](301/Class-02.md)                      | Read: Class 02 - State and Props                      |
