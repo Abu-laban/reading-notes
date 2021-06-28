@@ -196,3 +196,23 @@ The spread syntax is useful for combining the properties and methods on objects 
         console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
         const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
         objectFour.laugh() // 😂😂😂😂😂
+
+# How to Pass Functions Between Components
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+1. In the video, what is the first step that the developer does to pass functions between components?
+
+> Create the function where is the state that we are going to change.
+
+2. In your own words, what does the increment function do?
+
+> Recive an object the function will loop through the array using map method , then find the match name and then update the count.
+
+3. How can you pass a method from a parent component into a child component?
+
+> Passed it with a prop to the child component. By using constructor keyword then spicify the methods using supr() method.
+
+4. How does the child component invoke a method that was passed to it from a parent component?
+
+> By using the state method , by using the button will invoke the state method and pass the data update the component methods or attreputs.
