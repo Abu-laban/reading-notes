@@ -45,3 +45,4 @@
 | [Introduction to React and Components](301/Class-01.md) | Read: Class 01 - Introduction to React and Components |
 | [State and Props](301/Class-02.md)                      | Read: Class 02 - State and Props                      |
 | [Passing Functions as Props](301/Class-03.md)           | Read: Class 03 - Passing Functions as Props           |
+| [React and Forms](301/Class-04.md)                      | Read: Class 04 - React and Forms                      |
