@@ -46,7 +46,7 @@ For each piece of state in your application:
 
 - Identify every component that renders something based on that state.
 
-- Find a common owner component (a single component above all the components that need the state in the hierarchy).
+- Find a common owner component ,(a single component above all the components that need the state in the hierarchy).
 
 - Either the common owner or another component higher up in the hierarchy should own the state.
 
