@@ -43,4 +43,6 @@ just one line of code
          console.log(false);
          }
 
-        x === y ? 'true' : 'false' ;
+> x === y ? console.log(true) : console.log(false) ;
+
+![flash](img/ternary.PNG)
