@@ -45,4 +45,4 @@ just one line of code
 
 > x === y ? console.log(true) : console.log(false) ;
 
-![flash](img/ternary.PNG)
+![ternary](.img/ternary.PNG)
