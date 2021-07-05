@@ -49,3 +49,4 @@
 | [Putting it all together](301/Class-05.md)              | Read: Class 05 - Putting it all together              |
 | [NODE.JS](301/Class-06.md)                              | Read: Class 06 - NODE.JS                              |
 | [REST](301/Class-07.md)                                 | Read: Class 07 - REST                                 |
+| [APIs](301/Class-08.md)                                 | Read: Class 08 - APIs                                 |
