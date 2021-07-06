@@ -50,3 +50,4 @@
 | [NODE.JS](301/Class-06.md)                              | Read: Class 06 - NODE.JS                              |
 | [REST](301/Class-07.md)                                 | Read: Class 07 - REST                                 |
 | [APIs](301/Class-08.md)                                 | Read: Class 08 - APIs                                 |
+| [FUNCTIONAL PROGRAMMING](301/Class-09.md)               | Read: Class 09 - FUNCTIONAL PROGRAMMING               |
