@@ -52,3 +52,4 @@
 | [APIs](301/Class-08.md)                                 | Read: Class 08 - APIs                                 |
 | [FUNCTIONAL PROGRAMMING](301/Class-09.md)               | Read: Class 09 - FUNCTIONAL PROGRAMMING               |
 | [In memory storage](301/Class-10.md)                    | Read: Class 10 - In memory storage                    |
+| [Authentication](301/Class-11.md)                       | Read: Class 11 - Authentication                       |
