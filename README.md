@@ -54,3 +54,4 @@
 | [In memory storage](301/Class-10.md)                    | Read: Class 10 - In memory storage                    |
 | [Authentication](301/Class-11.md)                       | Read: Class 11 - Authentication                       |
 | [Mongo and Mongoose](301/Class-12.md)                   | Read: Class 12 - Mongo and Mongoose                   |
+| [CRUD](301/Class-13.md)                                 | Read: Class 13 - CRUD                                 |
