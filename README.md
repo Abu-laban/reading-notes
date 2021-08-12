@@ -1,10 +1,11 @@
 # Reading Notes
 
-## Daily reading assignments
+### Daily reading assignments
 
 - TABLE OF CONTENTS: CLICK TO JUMP TO A SPECIFIC SECTION
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
+
 
 | Title                                           | Read number                                   |
 | ----------------------------------------------- | --------------------------------------------- |
@@ -18,7 +19,9 @@
 | [CSS](css.md)                                   | Read: 07 - Design web pages with CSS          |
 | [The Coder's Computer](TCC.md)                  | Read: 09 - The Coder's Computer               |
 
-### Code 201 Reading Notes
+
+## Code 201 - Foundations of Software Development
+
 
 | Title                                                                  | Read number                                                               |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -38,7 +41,9 @@
 | [CSS Transforms, Transitions, and Animations](class-14a.md)            | Read: 14a - CSS Transforms, Transitions, and Animations                   |
 | [What Google Learned About Teams](class-14b.md)                        | Read: 14b - What Google Learned About Teams                               |
 
-### Code 301 Reading Notes
+
+## Code 301 - Intermediate Software Development
+
 
 | Title                                                   | Read number                                           |
 | ------------------------------------------------------- | ----------------------------------------------------- |
@@ -56,7 +61,9 @@
 | [Mongo and Mongoose](301/Class-12.md)                   | Read: Class 12 - Mongo and Mongoose                   |
 | [CRUD](301/Class-13.md)                                 | Read: Class 13 - CRUD                                 |
 
-### Code 401 Reading Notes
+
+## Code 401 - Advanced Software Development
+
 
 | Title                                                   | Read number                                           |
 | ------------------------------------------------------- | ----------------------------------------------------- |
