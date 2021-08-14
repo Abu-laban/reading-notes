@@ -68,3 +68,4 @@
 | Title                                                   | Read number                                           |
 | ------------------------------------------------------- | ----------------------------------------------------- |
 | [Get Ready for 401](401/401.md) | Readings ... - Get Ready for 401 |
+| [Node Ecosystem, TDD, CI/CD](401/Class-01.md) | Read: Class 01 - Node Ecosystem, TDD, CI/CD |
