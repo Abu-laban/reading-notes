@@ -50,7 +50,7 @@
  - work with plain text, XML, HTML and JSON
  - can make use of SOAP
 
- ## Document the following Vocabulary Terms
+## Document the following Vocabulary Terms
 
 ``Web Server``
 
