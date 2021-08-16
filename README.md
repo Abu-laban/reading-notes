@@ -70,3 +70,4 @@
 | [Get Ready for 401](401/401.md) | Readings ... - Get Ready for 401 |
 | [Node Ecosystem, TDD, CI/CD](401/Class-01.md) | Read: Class 01 - Node Ecosystem, TDD, CI/CD |
 | [Express](401/Class-02.md) | Read: Class 02 - Express |
+| [Express REST API](401/Class-03.md) | Read: Class 03 - Express REST API |
