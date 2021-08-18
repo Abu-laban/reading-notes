@@ -72,3 +72,4 @@
 | [Express](401/Class-02.md) | Read: Class 02 - Express |
 | [Express REST API](401/Class-03.md) | Read: Class 03 - Express REST API |
 | [Data Modeling](401/Class-04.md) | Read: Class 04 - Data Modeling |
+| [Linked Lists](401/Class-05.md) | Read: Class 05 - Linked Lists |
