@@ -16,7 +16,7 @@ Bind application-level middleware to an instance of the app object by using the 
 
 > These are the incoming request, the response being written, and a method to call to pass the call to the next middleware function once the current middleware is finished. In this case, once the response is sent, the function exits. You could also chain other middleware here by calling the next() method.
 
-## Document the following Vocabulary Terms (Links to an external site.)
+## Document the following Vocabulary Terms.
 
 - Router Middleware :
 
