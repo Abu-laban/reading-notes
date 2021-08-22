@@ -73,3 +73,4 @@
 | [Express REST API](401/Class-03.md) | Read: Class 03 - Express REST API |
 | [Data Modeling](401/Class-04.md) | Read: Class 04 - Data Modeling |
 | [Linked Lists](401/Class-05.md) | Read: Class 05 - Linked Lists |
+| [Authentication](401/Class-06.md) | Read: Class 06 - Authentication|
