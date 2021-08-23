@@ -75,3 +75,4 @@
 | [Linked Lists](401/Class-05.md) | Read: Class 05 - Linked Lists |
 | [Authentication](401/Class-06.md) | Read: Class 06 - Authentication|
 | [Bearer Authorization](401/Class-07.md) | Read: Class 07 - Bearer Authorization|
+| [Access Control (ACL)](401/Class-08.md) | Read: Class 08 - Access Control (ACL)|
