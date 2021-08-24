@@ -76,3 +76,4 @@
 | [Authentication](401/Class-06.md) | Read: Class 06 - Authentication|
 | [Bearer Authorization](401/Class-07.md) | Read: Class 07 - Bearer Authorization|
 | [Access Control (ACL)](401/Class-08.md) | Read: Class 08 - Access Control (ACL)|
+| [Authorization/Authentication)](401/Class-09.md) | Read: Class 09 - Authorization/Authentication|
