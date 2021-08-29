@@ -1,65 +1,38 @@
 # Socket.io
 
-### ``What is the benefit of transforming data into packets?``
+# What is the benefit of transforming data into packets? 
+![](https://paginas.fe.up.pt/~acbrito/laudon/images/fg_08_05.jpg)
 
-***Data packets. The main purpose of networking is to share data between computers. A file has to be broken up into small chunks of data known as data packets in order to be transmitted over a network.*** 
-***... Protocols are used to control how data is transmitted across networks..***
+**TDM-based networks must transform into packet-based networks to meet the demands of pervasive data-centric applications and services. Packet-based networks not only enable new innovations, services, and business opportunities, they are also the most cost-effective, efficient, and scalable networks for content delivery**
 
-### ``UDP is often refereed to as a connectionless protocol. Why is this?```
+# UDP is often refereed to as a connectionless protocol. Why is this?
 
-``doesn't establish a connection before sending data, it just sends. Because of this, UDP is called "Connectionless". UDP packets are often called "Datagrams". An example of UDP in action is the DNS service. DNS servers send and receive DNS requests using UDP.``
+![](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-tcp_vs_udp-f_mobile.png)
 
-### ``Can a socket server application have multiple socket connections?``
+**UDP is a connectionless protocol. It is known as a datagram protocol because it is analogous to sending a letter where you don't acknowledge receipt. Examples of applications that use connectionless transport services are broadcasting and tftp**
 
-***Multiple connections on the same server can share the same server-side IP/Port pair as long as they are associated with different client-side IP/Port pairs, and the server would be able to handle as many clients as available system resources allow it to.***
+# Can a socket server application have multiple socket connections?
 
-### ``Can a socket connection application be connected to multiple socket servers?``
+![](https://i.stack.imgur.com/twDR5.png)
 
-***A server socket listens on a single port. All established client connections on that server are associated with that same listening port on the server side of the connection. An established connection is uniquely identified by the combination of client-side and server-side IP/Port pairs. Multiple connections on the same server can share the same server-side IP/Port pair as long as they are associated with different client-side IP/Port pairs, and the server would be able to handle as many clients as available system resources allow it to.***
+**Multiple connections on the same server can share the same server-side IP/Port pair as long as they are associated with different client-side IP/Port pairs, and the server would be able to handle as many clients as available system resources**
 
-### Can an application be both a socket server and a socket connection?
+# Can a socket connection application be connected to multiple socket servers?
 
-***You can only multiplex multiple connections over a single socket if the other end supports such an operation. In other words it's a function protocol - sockets don't have any native support for it. I doubt yahoo messenger protocol has any support for it.***
+**A connected socket is assigned to a new (dedicated) port, so it means that the number of concurrent connections is limited by the number of ports, unless multiple sockets can share the same port**
+
+# Can an application be both a socket server and a socket connection? 
+
+**A server socket listens on a single port. ... Multiple connections on the same server can share the same server-side IP/Port pair as long as they are associated with different client-side IP/Port pairs, and the server would be able to handle as many clients as available system resources**
 
 
-
-## Term
-
-### Observer Pattern :
-
-***software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods***
-
-### Listener
-
-***Adds a listener at the end of the listeners array for the specified event. No checks are made to see if the listener has already been added. Multiple calls passing the same combination of event and listener will result in the listener being added multiple times. Returns emitter, so calls can be chained.***
-
-### Event Handler
-
-***An event handler is a callback routine that operates asynchronously and handles inputs received into a program (events).***
-
-### Event Driven Programming
-
-***Event-driven programming is a computer programming paradigm where control flow of the program is determined by the occurrence of events***
-
-### Event Loop
-
-***An event loop is something that pulls stuff out of the queue and places it onto the function execution stack whenever the function stack becomes empty. The event loop is the secret by which JavaScript gives us an illusion of being multithreaded even though it is single-threaded.***
-
-### Event Queue
-
-***An event queue is a repository where events from an application are held prior to being processed by a receiving program or system. Event queues are often used in the context of an enterprise messaging system. Events waiting to be processed reside in an event queue.***
-
-### Call Stack
-
-***call stack is a stack data structure that stores information about the active subroutines of a computer program. This kind of stack is also known as an execution stack, program stack, control stack, run-time stack, or machine stack, and is often shortened to just "the stack".***
-
-### Emit/Raise/Trigger
-
-* The trigger is a conditional test on an incoming event, while the actions are one or more programmatic steps the bot will take to fulfill the user's request.
-
-*  function raises the specified event. First parameter is name of the event as a string and then arguments. An event can be emitted with zero or more arguments. You can specify any name for a custom event in the emit() function.
-
-### database
-
-***an organized collection of structured information, or data, typically stored electronically in a computer system.***
-
+| Term       |       Definition             |
+| -----------|------------------------------|
+|Observer Pattern|The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.|
+|Listener|An event listener is a procedure in JavaScript that waits for an event to occur. The simple example of an event is a user clicking the mouse or pressing a key on the keyboard.|
+|Event Handler|Event handling (overview) Events are signals fired inside the browser window that notify of changes in the browser or operating system environment. Programmers can create event handler code that will run when an event fires, allowing web pages to respond appropriately to change.|
+|Event Driven Programming|In computer programming, event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or message passing from other programs or threads.|
+|Event Loop|In computer science, the event loop is a programming construct or design pattern that waits for and dispatches events or messages in a program|
+|Event Queue|An event queue is a repository where events from an application are held prior to being processed by a receiving program or system. Event queues are often used in the context of an enterprise messaging system|
+|Call Stack|“Since the Call Stack is organized as a stack, the caller pushes the return address onto the stack, and the called subroutine, when it finishes, pulls or pops the return address off the Call Stack and transfers control to that address.|
+|Emit/Raise/Trigger|emit --> The emit method (the publish method), on the other hand, allows you to "emit" an event, which causes all callbacks registered to the event to 'fire', (get called). Short: Emit's job is to trigger named event(s) which in turn cause functions called listeners to be called ... raise -->/Fire the event document. dispatchEvent(event) .. trigger-->The trigger() method triggers the specified event and the default behavior of an event (like form submission) for the selected elements. This method is similar to the triggerHandler() method, except that triggerHandler() does not trigger the default behavior of the event|Subscribe|As a publisher, you create an Observable instance that defines a subscriber function. ... To execute the observable you have created and begin receiving notifications, you call its subscribe() method, passing an observer. This is a JavaScript object that defines the handlers for the notifications you receive|database|PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. PouchDB was created to help web developers build applications that work as well offline as they do online|
