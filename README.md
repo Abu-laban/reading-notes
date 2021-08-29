@@ -76,6 +76,7 @@
 | [Authentication](401/Class-06.md) | Read: Class 06 - Authentication|
 | [Bearer Authorization](401/Class-07.md) | Read: Class 07 - Bearer Authorization|
 | [Access Control (ACL)](401/Class-08.md) | Read: Class 08 - Access Control (ACL)|
-| [Authorization/Authentication)](401/Class-09.md) | Read: Class 09 - Authorization/Authentication|
-| [Stacks and Queues)](401/Class-10.md) | Read: Class 10 - Stacks and Queues|
-| [Event Driven Applications)](401/Class-11.md) | Read: Class 11 - Event Driven Applications|
+| [Authorization/Authentication](401/Class-09.md) | Read: Class 09 - Authorization/Authentication|
+| [Stacks and Queues](401/Class-10.md) | Read: Class 10 - Stacks and Queues|
+| [Event Driven Applications](401/Class-11.md) | Read: Class 11 - Event Driven Applications|
+| [Socket.io](401/Class-12.md) | Read: Class 12 - Socket .io|
