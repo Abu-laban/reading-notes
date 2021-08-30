@@ -80,3 +80,4 @@
 | [Stacks and Queues](401/Class-10.md) | Read: Class 10 - Stacks and Queues|
 | [Event Driven Applications](401/Class-11.md) | Read: Class 11 - Event Driven Applications|
 | [Socket.io](401/Class-12.md) | Read: Class 12 - Socket .io|
+| [Message Queues](401/Class-13.md) | Read: Class 13 - Message Queues|
