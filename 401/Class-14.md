@@ -43,5 +43,3 @@ Pub/Sub, event driven systems, messaging
 3. What are you most excited about trying to implement or see how it works?
 
 Making a messaging queue
-
-[⬅ Back to README Home](README.md)
