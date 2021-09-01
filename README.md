@@ -82,3 +82,4 @@
 | [Socket.io](401/Class-12.md) | Read: Class 12 - Socket .io|
 | [Message Queues](401/Class-13.md) | Read: Class 13 - Message Queues|
 | [Event Driven Architecture](401/Class-14.md) | Read: Class 14 - Event Driven Architecture|
+| [Trees](401/Class-15.md) | Read: Class 15 - Trees|
