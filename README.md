@@ -83,3 +83,4 @@
 | [Message Queues](401/Class-13.md) | Read: Class 13 - Message Queues|
 | [Event Driven Architecture](401/Class-14.md) | Read: Class 14 - Event Driven Architecture|
 | [Trees](401/Class-15.md) | Read: Class 15 - Trees|
+| [AWS: Cloud Servers](401/Class-16.md) | Read: Class 16 - AWS: Cloud Servers|
