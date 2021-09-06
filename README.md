@@ -84,3 +84,4 @@
 | [Event Driven Architecture](401/Class-14.md) | Read: Class 14 - Event Driven Architecture|
 | [Trees](401/Class-15.md) | Read: Class 15 - Trees|
 | [AWS: Cloud Servers](401/Class-16.md) | Read: Class 16 - AWS: Cloud Servers|
+| [AWS: S3 and Lambda](401/Class-17.md) | Read: Class 17 - AWS: S3 and Lambda|
