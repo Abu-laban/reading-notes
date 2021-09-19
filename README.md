@@ -87,3 +87,4 @@
 | [AWS: S3 and Lambda](401/Class-17.md) | Read: Class 17 - AWS: S3 and Lambda|
 | [AWS: API, Dynamo and Lambda](401/Class-18.md) | Read: Class 18 - AWS: API, Dynamo and Lambda|
 | [AWS: Events](401/Class-19.md) | Read: Class 19 - AWS: Events|
+| [Component Based UI](401/Class-26.md) | Read: Class 26 - Component Based UI|
