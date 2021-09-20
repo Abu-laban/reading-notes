@@ -89,3 +89,4 @@
 | [AWS: Events](401/Class-19.md) | Read: Class 19 - AWS: Events|
 | [Component Based UI](401/Class-26.md) | Read: Class 26 - Component Based UI|
 | [Hook](401/Class-27.md) | Read: Class 27 - Hook|
+| [Component Lifecycle / useEffect() Hook](401/Class-28.md) | Read: Class 28 - Component Lifecycle / useEffect() Hook|
