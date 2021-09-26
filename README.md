@@ -93,3 +93,4 @@
 | [Advanced State with Reducers](401/Class-29.md) | Read: Class 29 - Advanced State with Reducers|
 | [Hash Tables](401/Class-30.md) | Read: Class 30 - Hash Tables|
 | [Context API](401/Class-31.md) | Read: Class 31 - Context API|
+| [Context API - Behaviors](401/Class-32.md) | Read: Class 32 - Context API - Behaviors|
