@@ -95,3 +95,4 @@
 | [Context API](401/Class-31.md) | Read: Class 31 - Context API|
 | [Context API - Behaviors](401/Class-32.md) | Read: Class 32 - Context API - Behaviors|
 | [`<Login />` and `<Auth />`](401/Class-33.md) | Read: Class 33 - `<Login />` and `<Auth />`|
+| [API Integration](401/Class-34.md) | Read: Class 34 - API Integration|
