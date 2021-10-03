@@ -97,3 +97,4 @@
 | [`<Login />` and `<Auth />`](401/Class-33.md) | Read: Class 33 - `<Login />` and `<Auth />`|
 | [API Integration](401/Class-34.md) | Read: Class 34 - API Integration|
 | [Graphs](401/Class-35.md) | Read: Class 35 - Graphs|
+| [Application State with Redux](401/Class-36.md) | Read: Class 36 - Application State with Redux|
