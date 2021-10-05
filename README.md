@@ -100,3 +100,4 @@
 | [Application State with Redux](401/Class-36.md) | Read: Class 36 - Application State with Redux|
 | [Redux - Combined Reducers](401/Class-37.md) | Read: Class 37 - Redux - Combined Reducers|
 | [Redux - Asynchronous Actions](401/Class-38.md) | Read: Class 38 - Redux - Asynchronous Actions|
+| [Redux - Additional Topics](401/Class-39.md) | Read: Class 39 - Redux - Additional Topics|
